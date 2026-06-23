@@ -230,5 +230,19 @@
     "@backstage/plugin-user-settings-backend": "0.4.4",
     "@backstage/plugin-user-settings-common": "0.1.0"
   },
-  "changesets": []
+  "changesets": [
+    "aws-s3-url-parser-cleanup",
+    "calm-keys-smile",
+    "create-app-1782224164",
+    "fix-bitbucket-picker-types",
+    "free-moose-shop",
+    "great-states-smash",
+    "mysql-84-test-database",
+    "neat-docs-wave",
+    "permission-attributes-nfs",
+    "text-area-field",
+    "ui-reexport-react-aria-components",
+    "warm-flags-flow",
+    "wide-knives-roll"
+  ]
 }

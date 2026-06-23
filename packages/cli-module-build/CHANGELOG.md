@@ -1,5 +1,11 @@
 # @backstage/cli-module-build
 
+## 0.1.5-next.0
+
+### Patch Changes
+
+- da820d1: Added support for passing custom flags to the embedded postgres processes via `backend.database.connection.flags.postgres` and `backend.database.connection.flags.initdb` configuration properties.
+
 ## 0.1.4
 
 ### Patch Changes
